@@ -6,11 +6,11 @@
 
 - 🔭 I'm currently working on **Zero to Ship Hackerthon Project**
 
-- 🌱 I'm currently learning **Terraform and Kubernetes **
+- 🌱 I'm currently learning **Terraform and Kubernetes**
 
 - 👯 I'm looking to collaborate on **Open Source Projects**
 
-- 🤝 I'm looking for help with **learning Cloud native architecture, IaS , Orchestration **
+- 🤝 I'm looking for help with **learning Cloud native architecture, IaS , Orchestration**
 
 - 💬 Ask me about **Python, Docker, REST API**
 
