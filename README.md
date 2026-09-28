@@ -1,6 +1,6 @@
 # Hi 👋, I'm ashen-v2
 
-### Python| Bash| Linux| docker| GitHub Actions| Postgres| AWS| Open to Opportunities
+### I'am Someone who fascinated with Cloud native architecture and deployment, Open to Opportunities
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashen-v2&label=Profile views&color=0e75b6&style=flat" alt="ashen-v2" /> </p>
 
