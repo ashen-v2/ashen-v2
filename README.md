@@ -10,7 +10,7 @@
 
 - 👯 I'm looking to collaborate on **Open Source Projects**
 
-- 🤝 I'm looking for help with **learning Cloud native architecture, IaS , Orchestration**
+- 🤝 I'm looking for help with **learning Cloud native architecture, IaC , Orchestration**
 
 - 💬 Ask me about **Python, Docker, REST API**
 
