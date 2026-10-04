@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashen-v2&label=Profile+views&color=0e75b6&style=flat" alt="ashen-v2" /> </p>
 
-- 🔭 I'm currently working on **Zero to Ship Hackerthon Project**
+- 🔭 I'm currently working on **Learning Terraform and Participating in hacktoberfest**
 
 - 🌱 I'm currently learning **Terraform and Kubernetes**
 
